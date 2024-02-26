@@ -1,3 +1,6 @@
 Hier kommt die Maus.
 Und Du bist aus,
 aus bist du noch lange nicht.
+****
+Ich habe das Repo gecloned und jetzt hier was hinzugefügt. 
+jetzt noch ein add, comit und dann wieder hoch damit.
